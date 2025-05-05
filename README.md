@@ -16,8 +16,11 @@ A simple Excel file reader web app built with **Next.js** and **SheetJS**. This 
 
 ```bash
 git clone https://github.com/pieash9/xl-file-reader
-cd excel-reader-nextjs
+```
 
+```bash
+cd excel-reader-nextjs
+```
 
 ## Getting Started
 
