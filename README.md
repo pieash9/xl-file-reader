@@ -1,4 +1,4 @@
-# 📊 Excel File Reader (Next.js)
+# 📊 Excel File Reader
 
 A simple Excel file reader web app built with **Next.js** and **SheetJS**. This tool allows users to upload an Excel file, select a worksheet and a specific column, and view the column data directly in the browser.
 
