@@ -71,7 +71,11 @@ const ExcelReader = () => {
 
   return (
     <div className="p-4">
+      <label htmlFor="input-file" className="block mb-2 text-sm">
+        Upload Excel File
+      </label>
       <input
+        id="input-file"
         className="mb-4 block w-fit text-sm border border-gray-300 rounded-lg cursor-pointer bg-gray-500 p-2"
         type="file"
         accept=".xlsx, .xls"
